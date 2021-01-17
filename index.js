@@ -1,7 +1,7 @@
 /*!
  * ns-timer
  *
- * Copyright(c) 2020 Imed Jaberi
+ * Copyright(c) 2021 Imed Jaberi
  * MIT Licensed
  */
 
